@@ -45,8 +45,8 @@ currently curious about
 +----------------------------------------+
 |              READING LOG               |
 |                                        |
-|  2026             13 books             |
-|  all time         81 books             |
+|  2026             14 books             |
+|  all time         82 books             |
 |                                        |
 +----------------------------------------+
 </pre>
